@@ -9,7 +9,7 @@ int(input("present_year:"))
 
 age = present_year - birth_year
 
-print("your age is:", age)
+print("your age is: ", age)
 
 
 
